@@ -1,6 +1,3 @@
-<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
-<h1 align="center"> MY NAME IS GIOVANA ROCHA </h1>
-<br>
 <div align="center">
   <img width="10%" src="https://github.com/giovanarocha09/giovanarocha09/blob/main/Ryu.gif">
 </div>
