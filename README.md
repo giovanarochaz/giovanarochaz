@@ -4,8 +4,7 @@
 
 # 📂 PROJETOS
 ## 💡 Pequenos Talentos - App do estudante
-APP Flutter desenvolvido para proporcionar autonomia para o estudante que possue como foco o ingresso nas Escolas Técnicas Estaduais. O Aplicativo pertence ao Projeto Pequenos Talentos e possui funções de adicionar e corrigir atividades, salvar slides de aulas, preencher relatorios e muito mais.
+Desenvolvido em Flutter, o aplicativo Pequenos Talentos foi criado para proporcionar autonomia aos estudantes que buscam ingressar nas Escolas Técnicas Estaduais. O aplicativo permite adicionar e corrigir atividades, salvar slides de aulas, preencher relatórios e muito mais, como parte do Projeto Pequenos Talentos.
 
 ## 🎮 JumpAI - Um jogo para crianças com mobilidade reduzida
-O JumpAI é um jogo em desenvolvimento utilizando Python, Html, Css, typescript e técnicas de IOT que possui como foco ser um jogo acessivel para crianças em fase escolas que possuem uma redução na mobilidade, o jogo é gerenciado atraves do movimento ocular e do movimento dos dedos, proporcionando autonomia e liberdade para a criança resolver desafios para avançar pelo jogo.
-
+O JumpAI é um jogo em desenvolvimento que utiliza Python, HTML, CSS, TypeScript e técnicas de IoT. Focado em ser acessível para crianças em idade escolar com mobilidade reduzida, o jogo é controlado por movimentos oculares e gestos dos dedos. Proporciona autonomia e liberdade para as crianças resolverem desafios e avançarem no jogo, promovendo inclusão e diversão interativa.
